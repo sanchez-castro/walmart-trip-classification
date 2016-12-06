@@ -7,7 +7,7 @@ Se evaluaron tres modelos de aprendizaje de máquina teniendo aproximadamente un
 Los integrantes del equipo son 
 - Jorge A. Sánchez Castro	 116360
 - Manuel Rios			 159284
-- Nohemí Rios 			 136135
+- Nohemí Limones 		 136135
 
 *Queremos agradecer a todos los usuarios en internet que sirvieron de referencia para este proyecto, en especial a github.com/kaslemr. Sin ellos, no hubieramos alcanzado tan buen desempeño.
 
